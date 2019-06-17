@@ -10,7 +10,7 @@ import java.util.Date;
 @NoArgsConstructor
 public class NpAffiliate {
     private Long id;
-    private User user;
+    private User user_id;
     private User userRefeens;
     private Date date;
 

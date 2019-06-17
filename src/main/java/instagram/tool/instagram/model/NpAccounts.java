@@ -18,5 +18,5 @@ public class NpAccounts {
     private String password;
     private String proxy;
     private String username;
-    private User user;
+    private User user_id;
 }
